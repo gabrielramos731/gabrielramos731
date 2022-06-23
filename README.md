@@ -3,7 +3,7 @@
 - 🔭 Atualmente olhando todas possibilidades de atuação
 - 🌱 Aprendendo C
 - 📫 Entre em contato por: ramos.gabrielsilva23@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 - ⚡ Atleta na horas vagas
  
 <div align="center">
