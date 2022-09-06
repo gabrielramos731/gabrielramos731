@@ -1,7 +1,7 @@
 ## Olá, Bem vindo ao meu perfil, eu sou o Gabriel Ramos!
 
 - 🔭 Atualmente olhando todas possibilidades de atuação
-- 🌱 Aprendendo C
+- 🌱 Aprendendo C e Java
 - 📫 Entre em contato por: ramos.gabrielsilva23@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Atleta na horas vagas
