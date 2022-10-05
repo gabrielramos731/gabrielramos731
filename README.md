@@ -19,4 +19,3 @@
   <a href="https://medium.com/@ramos.gabrielsilva23" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  
 </div>
-<a href="https://github.com/gabrielramos731/gabrielramos731"><img alt="Gabriel Ramos Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gabrielramos731&theme=react-dark" /></a>
