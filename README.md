@@ -1,7 +1,7 @@
 ## Olá, Bem vindo ao meu perfil, eu sou o Gabriel Ramos!
 
-- 🔭 Atualmente olhando todas possibilidades de atuação
-- 🌱 Aprendendo C e Python
+- 🔭 Desenvolvendo habilidades nas áreas de ciência de dados e machine learning
+- 🌱 Aprendendo Python e C
 - 📫 Entre em contato por: ramos.gabrielsilva23@gmail.com
 - ⚡ Atleta na horas vagas
  
