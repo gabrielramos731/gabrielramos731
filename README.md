@@ -1,8 +1,14 @@
-# 👋 Olá, sou Gabriel Ramos
+
+<img align="left" src="https://github.com/user-attachments/assets/c5340450-6529-4412-9f98-3a089d39905a" width="200" height="200">
+
+### 👋 Olá, sou Gabriel Ramos
 
 Bem-vindo ao meu perfil! Aqui você encontrará alguns dos meus projetos e experimentos nas áreas de desenvolvimento web e automação.
 
-## 🚀 Aprendendo Atualmente
+<br><br>
+
+### 🚀 Tecnologias em Estudo Atualmente<br>
+
 Estou focado em aprender e me aprofundar nas seguintes tecnologias:
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -11,7 +17,7 @@ Estou focado em aprender e me aprofundar nas seguintes tecnologias:
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## 📫 Contato
+### 📫 Contato
 Para entrar em contato comigo, envie um e-mail para:
 📧 [ramos.gabrielsilva23@gmail.com](mailto:ramos.gabrielsilva23@gmail.com)
 
