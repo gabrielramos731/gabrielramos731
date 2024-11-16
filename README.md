@@ -1,5 +1,5 @@
 
-<img align="left" src="https://github.com/user-attachments/assets/a2989463-b7b0-4466-95a3-7faa8bf5db9a" width="180" height="125">
+<img align="left" src="https://github.com/user-attachments/assets/a2989463-b7b0-4466-95a3-7faa8bf5db9a" width="165" height="120">
 
 ### 👋 Olá, sou Gabriel Ramos
 
