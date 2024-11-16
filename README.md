@@ -1,11 +1,9 @@
 
-<img align="left" src="https://github.com/user-attachments/assets/c5340450-6529-4412-9f98-3a089d39905a" width="200" height="200">
+<img align="left" src="https://github.com/user-attachments/assets/a2989463-b7b0-4466-95a3-7faa8bf5db9a" width="180" height="125">
 
 ### 👋 Olá, sou Gabriel Ramos
 
 Bem-vindo ao meu perfil! Aqui você encontrará alguns dos meus projetos e experimentos nas áreas de desenvolvimento web e automação.
-
-<br><br>
 
 ### 🚀 Tecnologias em Estudo Atualmente<br>
 
