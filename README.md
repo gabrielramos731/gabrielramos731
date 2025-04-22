@@ -76,6 +76,6 @@ Universidade de São Paulo – USP (Online)
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=gabrielramos731&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrielramos731&theme=github_dark&show_icons=true&rank_icon=github"/>
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramos731&layout=compact&langs_count=7&theme=dracula"/>
 </div>
