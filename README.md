@@ -5,65 +5,66 @@
     </td>
     <td>
 
-### 👋 Olá, sou Gabriel Ramos
+### Olá, sou Gabriel Ramos
 
-Sou graduando em Ciência da Computação pelo IFNMG e atuo como Pesquisador Científico, com foco em **Análise de Dados**, **Power BI**, **Python**, e **SQL**.  
-Apaixonado por transformar dados em **informações estratégicos**, estou sempre buscando formas de automatizar processos, visualizar informações com clareza e contribuir com soluções inteligentes.
+Sou graduando em Ciência da Computação pelo IFNMG, atuando como **Desenvolvedor de Software II** e **Pesquisador Científico**. Tenho perfil proativo com foco em **Engenharia de Dados**, **Analytics**, **Python** e **SQL**.  
+Possuo experiência prática no apoio aos processos de coleta, transformação e integração de dados (ETL/ELT), sempre buscando automatizar pipelines, estruturar informações complexas e entregar soluções inteligentes de alto desempenho.
 
 </td>
   </tr>
 </table>
 
-
-
 ---
 
-### 🚀 Principais Tecnologias & Ferramentas
+### Principais Tecnologias & Ferramentas
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 </div>
 
+---
+
+### Experiência Profissional e Acadêmica
+
+* **Desenvolvedor de Software II** @ IFNMG *(Ago/2025 – Atual)*: Desenvolvimento de pipelines ETL/ELT para ingestão de múltiplas fontes, conteinerização com Docker e modelagem de dados para BI.
+* **Pesquisador Científico** @ Laboratório de Inteligência Computacional Aplicada (LICA) *(Abr/2024 – Atual)*: Estruturação de rotinas ETL/ELT e modelagem estatística para embasar projetos de pesquisa e modelos de otimização.
+* **Pesquisador Científico (Prognóstico de Falhas)** @ IFNMG *(Fev/2023 – Jul/2025)*: Desenvolvimento de modelos preditivos (Machine Learning) para detecção de falhas, envolvendo Feature Engineering e processamento intensivo de séries temporais com Python.
 
 ---
 
-### 📊 Projetos em Destaque
+### Projetos em Destaque
 
-#### 🔍 [Análise de Acidentes de Trânsito no Brasil](https://github.com/gabrielramos731/obitos-att-brasil)
-> Um estudo visual e exploratório sobre acidentes terrestres com dados públicos brasileiros.
-- Limpeza e transformação de dados com `pandas`
-- Visualizações com `matplotlib` e `seaborn`
-- Insights sobre regiões, causas e volume de ocorrências
+#### [ETL de Especialização RAIS](https://github.com/gabrielramos731/rais-etl)
+> Estruturação e otimização do processamento de bases de dados governamentais complexas.
+- Desenvolvimento de pipeline ETL ponta a ponta com **Python** e **PostgreSQL**.
+- Implementação de processamento distribuído para redução de tempo computacional.
+- Ambiente conteinerizado com **Docker** e disponibilização de dados via API REST com **FastAPI**.
 
-#### 🚴 [Visualização de Dados via API Strava](https://github.com/gabrielramos731/strava-analysis)
-> Coleta e análise dos dados pessoais de atividades físicas via API.
-- Consumo de API com `Flask`
-- Armazenamento em banco de dados
-- Visualização interativa no Power BI
+#### [Pipeline de Dados Analíticos Strava API](https://github.com/gabrielramos731/strava-analysis)
+> Extração automatizada e consolidação de métricas de atividades esportivas para monitoramento.
+- Consumo de API REST do Strava utilizando **Flask**.
+- Armazenamento e modelagem da informação em banco de dados **PostgreSQL**.
+- Geração de inteligência e acompanhamento visual com dashboard interativo no **Power BI**.
 
 ---
 
-### 🧠 Formação Acadêmica
+### Formação Acadêmica
 
-🎓 **Bacharelado em Ciência da Computação**  
-Instituto Federal do Norte de Minas Gerais – IFNMG  
+**Bacharelado em Ciência da Computação** Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais – IFNMG  
 *2022 – 2027*
 
-📘 **Curso: Introdução à Análise Exploratória de Dados e Métodos Estatísticos**  
-Universidade de São Paulo – USP (Online)  
-*2022*
+ **Curso Complementar em Estatística** Instituto de Matemática e Estatística Universidade de São Paulo (IME-USP)  
+*2021*
 
 ---
 
-### 📫 Contato
+###  Contato
 
 <div align="center">
   <a href = "mailto:ramos.gabrielsilva23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
